@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+notebook
+streamlit
+plotly
+
+# https://github.com/codequeen-11/climate-challenge-week0.git
