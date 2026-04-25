@@ -16,3 +16,5 @@ climate-challenge-week0/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+## Setup completed
